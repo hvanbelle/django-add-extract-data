@@ -1,0 +1,1 @@
+[{"model": "sim.product", "pk": 1, "fields": {"name": "Chair", "description": "A mahogany chair", "price": "49.99"}}, {"model": "sim.product", "pk": 2, "fields": {"name": "Table", "description": "An oak table", "price": "99.99"}}]
